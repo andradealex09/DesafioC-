@@ -1,0 +1,13 @@
+C:\Users\User\Heroi\bin\Debug\netcoreapp3.1\Heroi.exe
+C:\Users\User\Heroi\bin\Debug\netcoreapp3.1\Heroi.deps.json
+C:\Users\User\Heroi\bin\Debug\netcoreapp3.1\Heroi.runtimeconfig.json
+C:\Users\User\Heroi\bin\Debug\netcoreapp3.1\Heroi.runtimeconfig.dev.json
+C:\Users\User\Heroi\bin\Debug\netcoreapp3.1\Heroi.dll
+C:\Users\User\Heroi\bin\Debug\netcoreapp3.1\Heroi.pdb
+C:\Users\User\Heroi\obj\Debug\netcoreapp3.1\Heroi.csprojAssemblyReference.cache
+C:\Users\User\Heroi\obj\Debug\netcoreapp3.1\Heroi.AssemblyInfoInputs.cache
+C:\Users\User\Heroi\obj\Debug\netcoreapp3.1\Heroi.AssemblyInfo.cs
+C:\Users\User\Heroi\obj\Debug\netcoreapp3.1\Heroi.csproj.CoreCompileInputs.cache
+C:\Users\User\Heroi\obj\Debug\netcoreapp3.1\Heroi.dll
+C:\Users\User\Heroi\obj\Debug\netcoreapp3.1\Heroi.pdb
+C:\Users\User\Heroi\obj\Debug\netcoreapp3.1\Heroi.genruntimeconfig.cache
